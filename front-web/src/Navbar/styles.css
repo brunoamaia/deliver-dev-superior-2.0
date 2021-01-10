@@ -16,3 +16,15 @@
   color: #FFFFFF;
   margin-left: 15px;
 }
+
+.git-link {
+  position: absolute;
+  padding-right: 40px;
+  right: 40px;
+  margin: 0;
+  padding: 0;
+}
+
+.github-link {
+  height: 30px;
+}
